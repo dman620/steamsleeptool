@@ -2,7 +2,7 @@ DEREK'S SIMPLE OPEN LICENSE (dSOL)
 
 version 01 (March 04, 2017)
 
-Copyright(C) year name name (email)
+Copyright(C) 2017 Derek Mandl (homeses@gmail.com)
 
 Regarding this license itself:
 Anyone can modify and distribute this license as they see fit.
